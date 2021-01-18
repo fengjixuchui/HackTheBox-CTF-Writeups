@@ -1,9 +1,9 @@
 # HackTheBox CTF Cheatsheet
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty. This list contains all the Hack The Box writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
+This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty. This list contains all the Hack The Box writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/rajchandel
+[1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
 
 | No. | Machine Name | Operating System | Difficulty |
@@ -103,3 +103,14 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 93. | [Haystack](https://www.hackingarticles.in/hack-the-box-haystack-walkthrough/)  | Linux   | Medium |
 | 94. | [Postman](https://www.hackingarticles.in/hack-the-box-postman-walkthrough/)   | Linux   | Easy   |
 | 95. | [Wall](https://www.hackingarticles.in/hack-the-box-wall-walkthrough/)| Linux   | Medium |
+| 96. | [Open Admin Box](https://www.hackingarticles.in/hack-the-box-open-admin-box-walkthrough/)| Linux   | Easy |
+| 97. | [Monteverde](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough/)| Windows  | Medium |
+| 98. | [Sauna](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/)| Windows  | Easy |
+| 99. | [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/)| Windows  | Hard |
+| 100. | [Tabby](https://www.hackingarticles.in/tabby-hackthebox-walkthrough/)| Linux  | Easy |
+| 101. | [Omni](https://www.hackingarticles.in/omni-hackthebox-walkthrough/)| Windows  | Easy |
+| 102. | [Mango](https://www.hackingarticles.in/mango-hackthebox-walkthrough/)| Linux  | Medium |
+| 103. | [Servmon](https://www.hackingarticles.in/servmon-hackthebox-walkthrough/)| Windows  | Easy |
+| 104. | [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/)| Windows  | Medium |
+| 105. | [Cascade](https://www.hackingarticles.in/cascade-hackthebox-walkthrough/)| Windows  | Medium |
+
