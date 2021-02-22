@@ -113,4 +113,25 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 103. | [Servmon](https://www.hackingarticles.in/servmon-hackthebox-walkthrough/)| Windows  | Easy |
 | 104. | [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/)| Windows  | Medium |
 | 105. | [Cascade](https://www.hackingarticles.in/cascade-hackthebox-walkthrough/)| Windows  | Medium |
+| 106. | [Traverxec](https://www.hackingarticles.in/traverxec-hackthebox-walkthrough/)| Linux  | Easy |
+| 107. | [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/)| Windows  | Easy |
+| 108. | [Admirer](https://www.hackingarticles.in/admirer-hackthebox-walkthrough/)| Linux  | Easy |
+| 109. | [Blunder](https://www.hackingarticles.in/blunder-hackthebox-walkthrough/)| Linux  | Easy |
+| 110. | [SwagShop](https://www.hackingarticles.in/swagshop-hackthebox-walkthrough/)| Linux  | Easy |
+| 111. | [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/)| Linux  | Easy |
+| 112. | [Fuse](https://www.hackingarticles.in/fuse-hackthebox-walkthrough/)| Windows  | Medium |
+| 113. | [LaCasaDePapel](https://www.hackingarticles.in/lacasadepapel-hackthebox-walkthrough/)| Linux  | Easy |
+| 114. | [Magic](https://www.hackingarticles.in/magic-hackthebox-walkthrough/)| Linux  | Medium |
+| 115. | [Traceback](https://www.hackingarticles.in/traceback-hackthebox-walkthrough/)| Linux  | Easy |
+| 116. | [Remote](https://www.hackingarticles.in/remote-hackthebox-walkthrough/)| Windows  | Easy |
+| 117. | [Book](https://www.hackingarticles.in/book-hackthebox-walkthrough/)| Linux  | Medium |
+| 118. | [Cache](https://www.hackingarticles.in/cache-hackthebox-walkthrough/)| Linux  | Medium |
+| 119. | [OpenKeyS](https://www.hackingarticles.in/openkeys-hackthebox-walkthrough/)| OpenBSD  | Medium |
+| 120. | [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/)| Linux  | Medium |
+| 121. | [Querier](https://www.hackingarticles.in/querier-hackthebox-walkthrough/)| Windows  | Medium |
+| 122. | [Sniper](https://www.hackingarticles.in/sniper-hackthebox-walkthrough/)| Windows  | Medium |
+| 123. | [Resolute](https://www.hackingarticles.in/resolute-hackthebox-walkthrough/)| Windows  | Medium |
+
+
+
 
